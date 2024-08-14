@@ -1,6 +1,6 @@
 # Perturbation AI Weather
 
-This project involves downloading ERA5 data, testing the Pangu model, and examining perturbations for the Pangu model. It is based on the research presented in the paper "Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Meteorological Hazards" by Kairui Feng, Dazhi Xi, Wei Ma, Cao Wang, Xuanhong Chen.
+This project involves downloading ERA5 data, testing the Pangu model, and examining perturbations for the Pangu model. It is based on the research presented in the paper "Potential Paradigm Shift in Hazard Risk Management: AI-Based Weather Forecast for Meteorological Hazards" by Kairui Feng, Dazhi Xi, Wei Ma, Cao Wang, Xuanhong Chen. https://arxiv.org/abs/2404.18440
 
 ## Requirements
 To utilize these tools, you need to copy the respective Google Colab notebooks to your Google account. Therefore, a Google account is necessary.
