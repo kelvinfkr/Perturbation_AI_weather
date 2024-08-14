@@ -5,6 +5,8 @@ This project involves downloading ERA5 data, testing the Pangu model, and examin
 ## Requirements
 To utilize these tools, you need to copy the respective Google Colab notebooks to your Google account. Therefore, a Google account is necessary.
 
+you also need to download the pangu model from their github repo: https://github.com/198808xc/Pangu-Weather and download pangu_weather_24.onnx and put it under the proper paths.
+
 ## Resources
 
 ### Download ERA5 Data
